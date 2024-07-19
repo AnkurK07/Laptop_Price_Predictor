@@ -3,7 +3,7 @@
 import streamlit as st
 import numpy as np
 import pickle
-import joblib
+
 
 
 def get_img_as_base64(file):
